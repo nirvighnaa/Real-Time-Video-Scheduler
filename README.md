@@ -48,8 +48,7 @@ python rtvss_app.py
 * Observe latency vs frame drops
 
 ## 📸 Screenshots
-
-(Add your screenshots here)
+Screenshots are available in the `/ss` folder.
 
 ## 🎯 Learning Outcome
 
